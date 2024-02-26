@@ -1,0 +1,94 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+/*
+.container{
+    width: 1780px;
+    margin: auto;
+}*/
+
+header {
+  border: 2px solid green;
+  padding: 19px 0px;
+  width: 1780px;
+  margin: 0 auto;
+}
+
+.logo-img {
+  vertical-align: middle;
+}
+
+.logo-text {
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 20px;
+  color: #4468e2;
+}
+
+.nav-list {
+  display: inline-block;
+  margin-left: 493px;
+}
+
+.list-item {
+  display: inline-block;
+  margin-right: 74px;
+}
+
+.connect {
+  font-size: 19px;
+  padding: 6px 18px;
+  background-color: #4468e2;
+  color: #fff;
+  border-radius: 17px;
+  margin-left: 470px;
+}
+
+.recommended-section {
+  width: 1780px;
+  margin: 65px auto 0px auto;
+}
+
+.recommended-title {
+  text-align: center;
+}
+
+.row-two {
+  margin-top: 200px;
+}
+
+.dest-card {
+  width: 552px;
+  display: inline-block;
+}
+
+.middle-card {
+  margin: 0px 58px;
+}
+
+.card-img {
+  width: 552px;
+  height: 398px;
+}
+
+.card-title {
+  font-size: 38px;
+}
+
+.card-desc {
+  font-size: 22px;
+  margin-top: 15px;
+  line-height: 28px;
+}
+
+.card-price {
+  font-size: 31px;
+  display: inline-block;
+  margin-left: 309px;
+}
+
+.price-section {
+  margin-top: 18px;
+}
